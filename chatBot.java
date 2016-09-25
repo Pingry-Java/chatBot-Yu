@@ -7,7 +7,6 @@ import java.util.Scanner;
 * @version 0.1
 */ 
 
-//TODO - bye or Bye to exit, && or || 
 public class chatBot
 
 {
